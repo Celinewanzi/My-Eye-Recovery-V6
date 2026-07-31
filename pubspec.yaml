@@ -1,0 +1,13 @@
+
+name: my_eye_recovery
+description: My Eye Recovery V6
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
